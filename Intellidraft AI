@@ -1,0 +1,57 @@
+Given your background in Android and React Native development, you're likely familiar with how specific the App Store and Google Play Store requirements have become regarding data disclosure—especially when handling payments.
+
+Since Intellidraft AI includes in-app subscriptions, you are technically interacting with third-party payment processors (Apple/Google), even if you don't store the credit card numbers yourself.
+
+Here is a tailored Privacy Policy for Tradewyn.
+
+Privacy Policy
+Last updated: December 20, 2024
+
+This privacy policy governs your use of the Intellidraft AI application (hereafter referred to as "the App"), created by Tradewyn. We are committed to protecting your privacy and ensuring a secure user experience.
+
+1. Data Collection
+We prioritize user privacy and aim to collect the minimum amount of data necessary to provide our services.
+
+Personal Information: We do not collect personally identifiable information (PII) such as your name, address, or contacts directly through the App.
+
+Subscription Data: When you purchase a subscription, the transaction is processed by the respective app store (Apple App Store or Google Play Store). We receive confirmation of the purchase and a unique subscriber ID to unlock premium features, but we do not have access to your credit card details or billing address.
+
+2. Third-Party Services
+While the App does not contain advertisements, it utilizes the following third-party services to manage subscriptions and improve app performance:
+
+Payment Processors: We use Apple/Google In-App Purchases to handle subscriptions. Their use of your personal information is governed by their respective Privacy Policies.
+
+AI Processing: As an AI-driven tool, text or data you input may be processed by third-party AI providers (such as OpenAI or Anthropic). This data is typically used only for real-time generation and is not stored by us for marketing purposes.
+
+3. Permissions
+The App may request the following permissions to function correctly:
+
+Internet Access: Required to communicate with AI models and validate subscription status.
+
+Notifications: Used to provide updates regarding your drafts or subscription status (only if granted by the user).
+
+4. Data Usage
+Any data processed by the App is used solely for:
+
+Providing and maintaining the AI drafting functionality.
+
+Managing and validating your in-app subscription.
+
+Improving the technical performance of the application.
+
+5. Data Sharing
+We do not sell, trade, or rent your data to third parties. We only share data with third-party service providers (like payment processors) to the extent necessary to provide the App's services.
+
+6. Security
+We implement industry-standard security measures to protect your information. Since the App processes data via secure APIs and does not store personal profiles on our own servers, the risk to your personal data is significantly minimized.
+
+7. Children’s Privacy
+The App is not intended for children under the age of 13. We do not knowingly collect data from children. If you believe we have inadvertently collected information from a child under 13, please contact us immediately.
+
+8. Changes to this Privacy Policy
+Tradewyn may update this privacy policy from time to time. Any changes will be reflected with a revised "Last updated" date. We recommend reviewing this policy periodically to stay informed about how we are protecting your information.
+
+9. Contact Us
+If you have any questions or concerns about this privacy policy or the practices of Intellidraft AI, please contact us at:
+
+Tradewyn Email: contact@tradewyn.uk
