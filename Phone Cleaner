@@ -1,0 +1,84 @@
+Thought process
+Thought process
+Here's the full text. Effective date 26 June 2026, published by Tradewyn.
+
+Privacy Policy — Phone Cleaner
+Effective date: 26 June 2026
+Last updated: 26 June 2026
+
+This Privacy Policy explains how Tradewyn ("we", "us", or "our") handles information in connection with the Phone Cleaner mobile application (the "App") available on Google Play. By downloading or using the App, you agree to the practices described in this policy.
+
+1. Summary
+Phone Cleaner is designed to work primarily on your device. The App scans and removes junk files, cache, and duplicate files, manages installed apps, and shows device, storage, battery, and CPU information. The cleaning and analysis functions run locally on your device, and the files and content we scan are never uploaded to us or to any third party. The App does not require you to create an account and does not ask for your name, phone number, or email address.
+
+The App displays advertisements through Google AdMob. To serve ads, AdMob collects certain device and usage data as described below. This is the main category of data collected when you use the App.
+
+2. Information We Collect
+2.1 Information you provide
+The App does not include user accounts or sign-in, and we do not request personal details such as your name, email address, or contact list. The only situation in which you provide information to us directly is if you choose to email our support address, in which case we receive the contents of your message and your email address in order to respond.
+
+2.2 Files and on-device content
+To perform its core functions, the App needs to read information about the files and storage on your device (for example, cache files, temporary files, large files, and duplicate media). This processing happens entirely on your device. We do not collect, copy, transmit, sell, or store the contents of your files, photos, videos, documents, or messages on our servers.
+
+2.3 App and device information
+The App reads information about installed applications and device hardware (such as storage usage, RAM, battery status and temperature, CPU usage, device model, Android version, and resolution) to display these details to you and to power features like the App Manager and Battery Monitor. This information is shown to you on-device and is not collected by us.
+
+2.4 Information collected automatically for advertising
+When the App shows ads, our advertising partner (Google AdMob) and its sub-processors may automatically collect and process certain data, which may include:
+
+Advertising identifier (Google Advertising ID / App Set ID)
+IP address and approximate, IP-derived location (country/region level)
+Device information (device type, operating system version, language, network type)
+Ad interaction and performance data (ads shown, taps, and similar diagnostics)
+This data is collected directly by Google in accordance with Google's own privacy policies. We do not control the data that Google collects through these services.
+
+3. Permissions We Use and Why
+Storage / Files & media access — To scan for junk, cache, large files, and duplicates, and to delete the items you choose to clean.
+Query installed apps — To list installed apps in the App Manager and show their storage usage so you can uninstall or clean them.
+View network connections / Internet — To load and display advertisements served by Google AdMob.
+Run / foreground service (optional) — To complete cleaning or scanning tasks reliably while the App is in use.
+You can review and revoke permissions at any time in your device's Settings → Apps → Phone Cleaner → Permissions. Some features may not work if required permissions are denied.
+
+4. How We Use Information
+To provide and operate the App's cleaning, optimization, and monitoring features.
+To display and measure advertisements that support the free App.
+To maintain the security, stability, and proper functioning of the App.
+To respond to your support requests if you contact us.
+To comply with applicable legal obligations.
+5. Advertising
+The App uses Google AdMob to display ads. AdMob may use the advertising identifier and other data described above to deliver and personalize ads and to measure their performance. You can learn how Google uses information from apps that use its services here: https://policies.google.com/technologies/partner-sites.
+
+You can limit ad personalization by resetting or deleting your Advertising ID in your device settings (Settings → Privacy / Google → Ads). If you are in the European Economic Area, the United Kingdom, or another region that requires it, the App will request your consent for personalized advertising through a Google-certified consent message before serving such ads, and you may withdraw or change your choice at any time.
+
+6. Third-Party Services
+We rely on the following third-party service, which has its own privacy policy:
+
+Google AdMob (advertising) — https://policies.google.com/privacy
+We are not responsible for the privacy practices of third parties, and we encourage you to review their policies.
+
+7. Data Sharing and Disclosure
+We do not sell your personal information. We do not share the contents of your files with anyone. Data may be processed by Google as our advertising provider as described above. We may also disclose information if required to do so by law, or to protect the rights, safety, or property of our users, the public, or Tradewyn.
+
+8. Data Retention
+Because cleaning and analysis run on your device, we do not retain your files or scan results. Data collected by Google for advertising is retained according to Google's retention practices. Support emails are retained only as long as needed to address your request.
+
+9. Data Security
+We take reasonable technical and organizational measures to protect information. Data transmitted by advertising services is encrypted in transit. However, no method of transmission or storage is completely secure, and we cannot guarantee absolute security.
+
+10. Children's Privacy
+The App is intended for a general audience and is not directed to children under the age of 13 (or the equivalent minimum age in your jurisdiction). We do not knowingly collect personal information from children. If you believe a child has provided us with personal information, please contact us so we can take appropriate action.
+
+11. Your Privacy Rights
+Depending on where you live, you may have rights under laws such as the EU/UK General Data Protection Regulation (GDPR) and the California Consumer Privacy Act (CCPA), including the right to access, correct, delete, or restrict the processing of your personal data, and the right to object to certain processing or withdraw consent. Because we do not maintain accounts or store personal files, many requests can be fulfilled directly on your device (for example, by resetting your Advertising ID or revoking permissions). For other requests, contact us using the details below and we will respond as required by applicable law. You also have the right to lodge a complaint with your local data protection authority.
+
+12. International Data Transfers
+Our advertising provider may process data on servers located in countries other than your own. Where such transfers occur, they are carried out in accordance with applicable data protection laws and appropriate safeguards.
+
+13. Changes to This Policy
+We may update this Privacy Policy from time to time. When we do, we will revise the "Last updated" date above and, where appropriate, provide additional notice. Your continued use of the App after changes take effect constitutes acceptance of the updated policy.
+
+14. Contact Us
+If you have any questions or requests regarding this Privacy Policy or your data, please contact:
+
+Tradewyn
+Email: contact@tradewyn.uk
