@@ -1,0 +1,59 @@
+# Privacy Policy
+
+**Effective date:** 20-08-2026
+
+This Privacy Policy explains how **Find Phone By Clap** (the "App"), published by **Tradewyn** (the "Provider", "we", "us"), handles information when you use the App. The App is distributed on the Google Play Store under the package name `com.tradewyn.phonefinder`.
+
+## Summary
+
+The App is designed to help you locate your phone by detecting a clap or similar loud sound and then triggering an alert (ringtone, flashlight, and/or vibration). **The App does not collect, transmit, store, or share any personal information.** All processing happens locally on your device.
+
+## Information We Do Not Collect
+
+The App does **not**:
+
+- Connect to the internet or send any data to us or any third party.
+- Use analytics, advertising SDKs, or crash-reporting services.
+- Collect your name, email, location, contacts, files, or any other personal data.
+- Upload or record audio to any server.
+
+## Microphone (Audio) Usage
+
+The App requests the **Microphone (`RECORD_AUDIO`)** permission to detect clapping sounds. Audio is:
+
+- Captured and analyzed **entirely on your device**.
+- Processed in real time only to detect a triggering sound.
+- **Never recorded to a file, never stored, and never transmitted** off the device.
+
+The microphone is only accessed while the detection service is actively running, and access stops when you disable the feature.
+
+## Notifications
+
+The App requests the **Notifications (`POST_NOTIFICATIONS`)** permission to display a persistent foreground notification while the sound-detection service is active, as required by Android. This notification is shown locally on your device and contains no personal information.
+
+## Foreground Service
+
+The App uses a foreground service of type **microphone** so that clap detection can continue while the app is in the background. The service runs only when you enable the detection feature and stops when you disable it.
+
+## Local Settings Storage
+
+The App stores simple preference flags (for example, whether detection is enabled and your chosen alert options) using Android's local **SharedPreferences** storage on your device. This data stays on your device and is removed if you uninstall the App. It is never transmitted to us.
+
+## Children's Privacy
+
+The App does not collect any personal information from anyone, including children under the age of 13. The App is not directed specifically at children, but it is safe for general use.
+
+## Security
+
+Because the App does not collect or transmit personal data, there is no personal information for us to secure on external servers.
+
+## Changes to This Policy
+
+We may update this Privacy Policy from time to time. Any changes will be posted on this page, and the "Effective date" above will be revised accordingly.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at:
+
+**Tradewyn**
+Email: contact@tradewyn.uk
