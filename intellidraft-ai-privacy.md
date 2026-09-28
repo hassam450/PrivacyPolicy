@@ -3,7 +3,7 @@
 **Effective date:** September 28, 2026
 **App:** IntelliDraft AI ("IntelliDraft", "the app"), Android package `com.intellidraft.ai`
 **Developer:** Tradewyn ("we", "us")
-**Contact:** support@intellidraft.ai
+**Contact:** contact@tradewyn.uk
 
 IntelliDraft helps you write and read messages. You give it a draft, a one-line intent, a screenshot, or a message you received. The app uses AI to analyze the tone and suggest rewrites or replies. This policy explains what data the app handles, why, who it is shared with, and the choices you have.
 
