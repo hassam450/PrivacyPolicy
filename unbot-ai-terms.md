@@ -83,7 +83,7 @@ You can stop using Unbot at any time by deleting the app and cancelling any subs
 ## 14. General
 
 - **Changes:** we may update these terms. We will change the effective date above, and for significant changes we will tell you in the app or on the store listing. If you keep using Unbot after changes take effect, you accept them.
-- **Governing law:** these terms are governed by the laws of [your country or state], except where your local consumer law says otherwise.
+- **Governing law:** these terms are governed by the laws of Pakistan, except where your local consumer law says otherwise.
 - **Whole agreement:** these terms and the Privacy Policy are the whole agreement between you and us about Unbot. If any part is unenforceable, the rest still applies. If we don't enforce a term, that doesn't waive it.
 - **Apple users:** these terms are between you and us, not Apple. Apple is not responsible for the app or its support, but Apple and its subsidiaries are third-party beneficiaries of these terms and may enforce them.
 
