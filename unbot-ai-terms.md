@@ -17,7 +17,7 @@ You must be at least 13 years old to use Unbot. If you are under the age of majo
 ## 3. Your content
 
 - You keep all rights to the text you enter and to the rewrites Unbot gives you.
-- You give us permission to process your text only as needed to provide the service: to send it to our server and our AI provider, rewrite it, score it and return it to you. See the [Privacy Policy](privacy-policy.md) for details.
+- You give us permission to process your text only as needed to provide the service: to send it to our server and our AI provider, rewrite it, score it and return it to you. See the [Privacy Policy](https://hassam450.github.io/PrivacyPolicy/unbot-ai-privacy) for details.
 - You are responsible for the text you submit. You confirm you have the right to use it.
 - AI output can be inaccurate, change your meaning or contain errors. **Review every rewrite before you use it.** You are responsible for how you use the output.
 
